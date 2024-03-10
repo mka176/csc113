@@ -23,7 +23,7 @@ public class Transactions {
                       "Amount : " + Amount + "\n" +
                       "Date : " + Date + "\n" +
                       "--------------------------------------------\n"+
-                      "         THANK YOU FOR USING OUR ATM        \n"
+                      "         THANK YOU FOR USING OUR ATM        \n" +
                       "--------------------------------------------\n";
       return result;
    }
